@@ -1,0 +1,31 @@
+#encapezera {
+
+    background-color: aqua;
+    width: 150px;
+
+}
+
+#titulo{
+    background-color: rgb(189, 153, 61);
+    width: 50%;
+    
+    text-align: center;
+   
+}
+
+#parafo1pagina {
+    background-color: blueviolet;
+
+}
+
+#parafo1pagina{
+    background-color: rgb(189, 153, 61);
+    width: 90%;
+}
+
+#page1{
+    background-color: rgb(149, 172, 24);
+    width: 50%;
+    border: 5px inset gray;
+    border-color: rgb(16, 7, 137);
+}
