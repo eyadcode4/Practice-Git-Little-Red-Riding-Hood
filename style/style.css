@@ -1,31 +1,37 @@
-#encapezera {
 
-    background-color: aqua;
-    width: 150px;
-
-}
 
 #titulo{
     background-color: rgb(189, 153, 61);
-    width: 50%;
-    
+    width: 59%;
     text-align: center;
    
 }
 
-#parafo1pagina {
-    background-color: blueviolet;
 
-}
-
-#parafo1pagina{
-    background-color: rgb(189, 153, 61);
-    width: 90%;
-}
-
-#page1{
-    background-color: rgb(149, 172, 24);
-    width: 50%;
+.img{
+    border: 1px solid red;
+    width: 60%;
     border: 5px inset gray;
     border-color: rgb(16, 7, 137);
+
+}
+
+#encapezera {
+    width: 20%;
+    height: 5%;
+    font-size: larger;
+    font-weight: bold;
+    background-color: blue;
+    text-align: center;
+    color: rgb(217, 217, 237);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.words{
+    width: 59%;
+    font-size: x-large;
+    font-weight: bold;
 }
